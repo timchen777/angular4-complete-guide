@@ -3,3 +3,11 @@
 > ng new a4cg
 > cd a4cg
 > ng serve ==> localhist:4200 see App Works! 
+================== DEMO angulat two-way data-binding ================
+------app.components.html------
+<input type="text" [(ngModel)]="name">
+<p>{{ name }}</p>
+------app.components.ts------
+export class AppComponent {
+  name = '';
+}
