@@ -11,3 +11,10 @@
 export class AppComponent {
   name = '';
 }
+===================  Bootstrap ==================
+>npm install --save bootstrap
+edit .angular-cli.json file
+add  "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+        "styles.css"
+      ],
