@@ -20,3 +20,6 @@ add  "styles": [
         "styles.css"
       ],
 =============== #15 create new component ===========
+====#16 Understanding the Role of AppModule and Component Declaration =====
+======#17 using custom component ============
+localhost:4200==> see "The server component"
