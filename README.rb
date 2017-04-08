@@ -26,3 +26,5 @@ localhost:4200==> see "The server component"
 === 18. Creating Components with the CLI & Nesting Components===
 >ng generate component servers
 or typing => ng g c servers
+=========== 19. Working with Component Templates ==========
+
