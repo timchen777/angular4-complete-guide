@@ -27,4 +27,6 @@ localhost:4200==> see "The server component"
 >ng generate component servers
 or typing => ng g c servers
 =========== 19. Working with Component Templates ==========
-
+use extrenal url file or inline component Templates
+=========== 20. Working with Component Styles ==========
+use extrenal url file or inline component styles
