@@ -31,3 +31,6 @@ use extrenal url file or inline component Templates
 =========== 20. Working with Component Styles ==========
 use extrenal url file or inline component styles
 =========== 21. Working with Component Selectors ==========
+selector by attribute
+selector by class
+
