@@ -37,4 +37,5 @@ selector by class
 ============23. String interpolation ==================
 ============24. Property binding ==================
 ============25. String interpolation vs Property binding ==================
+============26. Event binding ==================
 
