@@ -36,4 +36,5 @@ selector by class
 ============22. What is Databinding===================
 ============23. String interpolation ==================
 ============24. Property binding ==================
+============25. String interpolation vs Property binding ==================
 
