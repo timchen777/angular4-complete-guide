@@ -38,4 +38,6 @@ selector by class
 ============24. Property binding ==================
 ============25. String interpolation vs Property binding ==================
 ============26. Event binding ==================
+============28. Passing and Using Data with Event Binding================
+
 
