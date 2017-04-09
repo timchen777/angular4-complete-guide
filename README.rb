@@ -34,4 +34,6 @@ use extrenal url file or inline component styles
 selector by attribute
 selector by class
 ============22. What is Databinding===================
+============23. String interpolation ==================
+============24. Property binding ==================
 
